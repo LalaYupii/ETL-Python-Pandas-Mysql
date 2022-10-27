@@ -40,7 +40,7 @@ Por último, utilizando MySQL Workbench se buscaron los outliers de la tabla ope
 <hr>
 
 **Video Explicativo**
-Análisis del estado de los datos en los diferentes archivos (pendiente).
+![Análisis del estado de los datos en los diferentes archivos](https://drive.google.com/drive/folders/1NHdB-Yfvim55Zuj3s1heoXqC-nnZZECV?usp=sharing)
 
 **Contacto**
 mimundo.lalayupii@gmail.com

@@ -27,3 +27,6 @@ select * from sucursal where Localidad IN ('Usuahia', 'Bernal', 'Corrientes');
 select * from operacion;
 select * from sucursal;
 select * from producto;
+
+select * from operacion where outlier = 2;
+
